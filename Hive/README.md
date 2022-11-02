@@ -45,3 +45,6 @@ _spark中使用参数连接**Cloud SQl**: javax.jdo.option.ConnectionURL and jav
 | hive.metastore.uris           | 远程元数据存储的Thrift URI | JDBC给了sql能力    |
 | avax.jdo.option.ConnectionURL | 元数据存储的JDBC URL       | 都是基于thrift服务 |
 
+
+
+引用: **https://zhuanlan.zhihu.com/p/343846037**
